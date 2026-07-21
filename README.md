@@ -59,7 +59,7 @@
 
 | Project | What it does | Built with |
 |---------|--------------|------------|
-| 🛠️ **[KaarigarGo](https://github.com/samayjainbm/KaarigarGo)** | Production-ready **on-demand services platform** connecting customers with skilled workers — a monorepo spanning an API, a web dashboard and a mobile app. | NestJS · Prisma · PostgreSQL · Next.js · Expo |
+| 🛠️ **[KaarigarGo](https://github.com/samayjainbm/KaarigarGo)** · [Live ↗](https://kaarigar-go-samayjainbm.vercel.app/) | Production-ready **on-demand services platform** connecting customers with skilled workers — a monorepo spanning an API, a web dashboard and a mobile app. | Express · Prisma · PostgreSQL · Redis · Socket.IO · Expo · React |
 | 🎓 **[Manit-Hub](https://github.com/samayjainbm/Manit-Hub)** | Campus-exclusive student platform for **MANIT** — buy/sell listings, collaborative study groups and live chat, secured with JWT auth. | MERN (MongoDB · Express · React · Node) |
 | 🧾 **[ServiceDesk](https://github.com/samayjainbm/ServiceDesk)** | Full-stack college **service & complaint management** app — role-based login, inventory handling and worker task allocation. | React Native · Node · Express · Prisma · MySQL |
 | 🔨 **[PDF-Forge](https://github.com/samayjainbm/PDF-Forge)** · [Live ↗](https://pdf-forge-samayjainbm.netlify.app/) | Free, **client-side** PDF toolkit — merge, split, compress, convert & edit PDFs entirely in the browser. Your files never leave your device. | JavaScript, pdf-lib |
@@ -109,10 +109,10 @@
 
 <div align="center">
 
+<a href="https://samayjainbm.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/samayjainbm2027"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/u/samayjainbm"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="mailto:samayjain72258@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://pdf-forge-samayjainbm.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" /></a>
 
 <br/><br/>
 
