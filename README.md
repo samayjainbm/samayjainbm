@@ -47,12 +47,12 @@
 
 | Project | What it does | Built with |
 |---------|--------------|------------|
+| 🛠️ **[KaarigarGo](https://github.com/samayjainbm/KaarigarGo)** | Production-ready **on-demand services platform** connecting customers with skilled workers — a monorepo spanning an API, a web dashboard and a mobile app. | NestJS · Prisma · PostgreSQL · Next.js · Expo |
+| 🎓 **[Manit-Hub](https://github.com/samayjainbm/Manit-Hub)** | Campus-exclusive student platform for **MANIT** — buy/sell listings, collaborative study groups and live chat, secured with JWT auth. | MERN (MongoDB · Express · React · Node) |
+| 🧾 **[ServiceDesk](https://github.com/samayjainbm/ServiceDesk)** | Full-stack college **service & complaint management** app — role-based login, inventory handling and worker task allocation. | React Native · Node · Express · Prisma · MySQL |
 | 🔨 **[PDF-Forge](https://github.com/samayjainbm/PDF-Forge)** · [Live ↗](https://pdf-forge-samayjainbm.netlify.app/) | Free, **client-side** PDF toolkit — merge, split, compress, convert & edit PDFs entirely in the browser. Your files never leave your device. | JavaScript, pdf-lib |
-| 🎙️ **[TranscriptAI](https://github.com/samayjainbm/TranscriptAI)** | AI-powered tool that converts YouTube videos into accurate, readable text transcripts. | HTML, JS, AI APIs |
-| 🗜️ **[PDF-Compressor](https://github.com/samayjainbm/PDF-Compressor)** | Free online PDF compressor powered by serverless **Netlify Functions** and pdf-lib. | Netlify Functions, pdf-lib |
-| 🍃 **[Premium-Website-TEA](https://github.com/samayjainbm/Premium-Website-TEA)** | Luxury scroll-driven website celebrating the premium Indian tea ritual through animation. | HTML, CSS, JS animations |
-| ✍️ **[TextUtils](https://github.com/samayjainbm/TextUtils)** | Text manipulation utility app — analyze, transform and clean up text instantly. | React, JavaScript |
-| ✨ **[ParticleText](https://github.com/samayjainbm/ParticleText)** | Interactive particle-based text animation experiment on HTML canvas. | HTML Canvas, JS |
+| 🎙️ **[TranscriptAI](https://github.com/samayjainbm/TranscriptAI)** | AI-powered tool that converts YouTube videos into accurate, readable text transcripts you can summarize & take notes from. | Python, JavaScript, AI APIs |
+| 🍃 **[Premium-Website-TEA](https://github.com/samayjainbm/Premium-Website-TEA)** | Luxury scroll-driven website celebrating the premium Indian tea ritual through cinematic animation. | HTML, CSS, JS animations |
 
 <br/>
 
