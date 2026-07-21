@@ -2,7 +2,7 @@
 
 <!-- ══════════════════════ HEADER ══════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Samay+Jain+%F0%9F%91%8B;Frontend+Developer+%7C+UG+Student;I+build+free+tools+people+actually+use;Always+learning.+Always+shipping.+%F0%9F%9A%80" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Samay+Jain+%F0%9F%91%8B;Full-Stack+Web+%26+Mobile+Developer+%7C+UG+%40+MANIT;I+build+production+apps+end-to-end;Always+learning.+Always+shipping.+%F0%9F%9A%80" alt="Typing animation" />
 
 <br/>
 
@@ -14,12 +14,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Undergraduate student who learns by **building real, usable products** — not just tutorials
-- 🛠️ I ship **free web tools** — PDF utilities, AI transcript converters, and polished UI experiments
-- 🌱 Currently deepening my skills in **JavaScript, React & serverless (Netlify Functions)**
-- ⚡ I care about **client-side privacy** — my PDF tools process everything in your browser, nothing gets uploaded
-- 💬 Ask me about building & deploying free tools with **zero budget**
-- 📫 Reach me: **samayjain13004@gmail.com**
+- 🎓 **Full-stack web & mobile developer** and UG @ MANIT — I learn by shipping real products end-to-end
+- 🚀 Built **[KaarigarGo](https://github.com/samayjainbm/KaarigarGo)** (NestJS · Prisma · Postgres · Next.js · Expo), **[Manit-Hub](https://github.com/samayjainbm/Manit-Hub)** (MERN) & **[ServiceDesk](https://github.com/samayjainbm/ServiceDesk)** (React Native · Node · Prisma · MySQL)
+- 🧩 Comfortable across the stack — React / Next.js / React Native ⟷ Node / NestJS / Express ⟷ Postgres / MySQL / MongoDB
+- ⚡ Also ship privacy-first client-side tools like **[PDF-Forge](https://github.com/samayjainbm/PDF-Forge)** — nothing ever leaves your browser
+- 🌱 Currently going deeper on **TypeScript, system design & AI/RAG**
+- 📫 Reach me: **samayjain72258@gmail.com**
 
 <br/>
 
@@ -29,13 +29,25 @@
 
 <div align="center">
 
-**Languages & Core**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=js,html,css,react,bootstrap,tailwind&perline=8" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css&perline=8" alt="Languages" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&perline=8" alt="Frontend" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma&perline=8" alt="Backend" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=8" alt="Databases" />
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,netlify,vscode,nodejs,figma&perline=8" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,vscode,figma,postman&perline=8" alt="Tools & Platforms" />
 
 </div>
 
@@ -63,7 +75,7 @@
 <div align="center">
 
 <img height="170" src="https://github-stats-extended.vercel.app/api?username=samayjainbm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=samayjainbm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=samayjainbm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" alt="Top languages" />
 
 <br/><br/>
 
@@ -99,7 +111,7 @@
 
 <a href="https://linkedin.com/in/samayjainbm2027"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/u/samayjainbm"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-<a href="mailto:samayjain13004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:samayjain72258@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://pdf-forge-samayjainbm.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" /></a>
 
 <br/><br/>
